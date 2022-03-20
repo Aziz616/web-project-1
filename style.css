@@ -1,0 +1,65 @@
+.black {
+  color: #ffffff;
+  font-family: "Amiri", serif;
+  font-family: "Fredoka", sans-serif;
+  margin-top: 50px;
+}
+p {
+  color: #ffffff;
+  font-family: "Amiri", serif;
+  font-family: "Fredoka", sans-serif;
+  font-size: larger;
+}
+.list-group {
+  width: 600px;
+  display: flex;
+  align-items: center;
+  margin-left: 35%;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+.list-group-item-action active {
+  background-color: #161a1d;
+}
+.row3 {
+  background-color: #e8e8e4;
+  text-align: center;
+  height: 25vh;
+  width: 100vw;
+  margin-top: -20px;
+}
+.email {
+  margin-left: -1860px;
+}
+
+.email2 {
+  margin-left: -1720px;
+}
+
+.submit {
+  margin-left: -1840px;
+}
+.ph {
+  margin-top: -20px;
+}
+h6 {
+  display: flex;
+  justify-content: first baseline;
+}
+.myicon {
+  margin-right: -1800px;
+  justify-content: end;
+}
